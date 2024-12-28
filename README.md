@@ -22,8 +22,6 @@
     </li>
     <li>
       <a href="#conclusion">Conclusion</a>
-    </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -81,16 +79,5 @@ This project is the final assignment for the Communicating Technology module at 
 
 This project provided valuable insights into sales and profitability trends, highlighting key drivers of success and areas for improvement. It showcased the power of descriptive analytics in generating precise and meaningful insights for businesses and offers a robust foundation for refining strategies and optimizing future performance.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Katrina Booth: katrinalilybooth@gmail.com
-
-Project Link: [https://github.com/KatrinaBooth/Offuture-Project](https://github.com/KatrinaBooth/Offuture-Project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
