@@ -68,4 +68,3 @@ ON
 	p.product_id = oi.product_id
 WHERE p.sub_category = 'Phones'
 
-
