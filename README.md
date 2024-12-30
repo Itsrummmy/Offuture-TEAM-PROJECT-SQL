@@ -75,7 +75,7 @@ This project, focused on the analysis of Offture's sales data using SQL. Key obj
 
 <!-- Conclusion -->
 ## Conclusion
-These findings highlight key drivers of success and areas for improvement, enabling informed strategic decisions and ultimately optimizing business performance.
+These findings highlight key drivers of success and areas for improvement, enabling informed decision making and ultimately optimizing business performance.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
