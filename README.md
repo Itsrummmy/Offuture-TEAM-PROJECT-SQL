@@ -9,7 +9,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#project-overview">About The Project</a>
+      <a href="#project-overview">Project Overview</a>
     </li>
     <li>
       <a href="#tools-used">Tools Used</a>
