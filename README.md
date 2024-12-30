@@ -9,7 +9,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-overview">About The Project</a>
     </li>
     <li>
       <a href="#tools-used">Tools Used</a>
@@ -27,8 +27,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- PROJECT OVERVIEW -->
+## Project Overview
 
 This project, focused on the analysis of Offture's sales data using SQL. Key objectives included identifying key trends and performance metrics, developing insightful visualizations using Tableau, and effectively communicating findings to the team.
 
