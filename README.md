@@ -60,8 +60,7 @@ This project, focused on the analysis of Offture's sales data using SQL. Key obj
 <!-- Outcomes -->
 ## Outcomes
 
-* Profit doubled from 2011 to 2014, with Q4 always performing best.
-* This was also reflected in the sales figures.
+* Profit and Sales doubled from 2011 to 2014, with Q4 always performing best.
 * Smaller, more disposable items such as binder covers, highlighters, and ring binders are top-sellers.
 * Conversely, the most profitable products are typically larger, more expensive, and long-lasting items, such as copiers, stoves, and phones.
 * Overall, selling tables has cost the company $64k.
@@ -76,8 +75,7 @@ This project, focused on the analysis of Offture's sales data using SQL. Key obj
 
 <!-- Conclusion -->
 ## Conclusion
-
-This project provided valuable insights into sales and profitability trends, highlighting key drivers of success and areas for improvement. It showcased the power of descriptive analytics in generating precise and meaningful insights for businesses and offers a robust foundation for refining strategies and optimizing future performance.
+These findings highlight key drivers of success and areas for improvement, enabling informed strategic decisions and ultimately optimizing business performance.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
