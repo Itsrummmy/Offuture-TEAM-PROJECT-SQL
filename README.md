@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is the final assignment for the Communicating Technology module at Digital Futures Academy. Over 2.5 days, I performed a descriptive analysis of Offture's sales data from 2011 to 2015 in SQL, identifying key trends and performance metrics across the time period. The analysis aimed to summarize the data, highlight notable advantages and challenges, and present the findings in a clear and insightful way to support informed decision-making. Visualisations were created using Tabealu, along with a comprehensive dashboard showing all analysis. Following the analysis, I presented the results to the cohort, providing actionable insights and recommendations based on the data.
+This project, focused on the analysis of Offture's sales data using SQL. Key objectives included identifying key trends and performance metrics, developing insightful visualizations using Tableau, and effectively communicating findings to the team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
